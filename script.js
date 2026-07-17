@@ -80,7 +80,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const whatsappUrl = new URL("https://wa.me/6281234567890");
   whatsappUrl.searchParams.set(
     "text",
-    "Halo, saya tertarik dengan AI Business OS."
+    "Halo, saya tertarik dengan BizTolkit."
   );
 
   document
